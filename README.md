@@ -6,12 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQHWD4jx6qwlRw/profile-displayphoto-shrink_400_400/0/1732742854901?e=1751500800&v=beta&t=n-t8TPq71acp_7TVwjpp1fG49DGDM86Gr1zVRyS6hww" width="180" height="180" alt="Eyob Mulugeta profile photo"/>
-</p>
-
----
-
 <!--Intro start-->
 - 🔭 I’m currently working on **chest X-ray disease detection using CNN and transfer learning**
 -💡 I'am currently doing research on **Improving Fairness in Medical Imaging AI by Integrationg Sahp- Based Explanation Methods**
