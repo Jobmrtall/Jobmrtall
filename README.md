@@ -7,7 +7,7 @@
 ---
 
 <!--Intro start-->
-- 🔭 I’m currently working on **chest X-ray disease detection using CNN and transfer learning** and currently doing research on **Improving Fairness in Medical Imaging AI by Integrationg SAHP- Based Explanation Methods**
+- 🔭 I’m currently working on **chest X-ray disease detection using CNN and transfer learning** and currently doing research on **Improving Fairness in Medical Imaging AI by Integrationg SHAP- Based Explanation Methods**
 - 🌱 I’m currently learning **Big data analytics**
 - 💬 Ask me about **TensorFlow, PyTorch, Keras, Scikit-learn, Seaborn, Matplotlib**
 
