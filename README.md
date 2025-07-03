@@ -48,7 +48,7 @@
 
 - 🎓 MSc in Data Science – Addis Ababa University  
 - 🎓 BSc in Comprehensive Nursing – Mekelle University  
-- 📜 Applied Data Science – MIT Professional Education  
+- 📜 Data Science Specialization  – IBM Coursera  
 - 💻 Python & Data Analysis – Addis Ababa Institute of Technology  
 - 🏥 EMR & HIV Clinical Care – Yekatit 12 Hospital
 
