@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <h1 align="center">Hi 👋, I'm Eyob Mulugeta</h1>
-<h3 align="center">Data Analyst | Nurse | MSc in Data Science | Public Health Tech Advocate</h3>
+<h3 align="center">Data Analyst | Nurse | MSc in Data Science | Digital health and AI researcher /h3>
 
 ---
 
